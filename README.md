@@ -1,6 +1,9 @@
-## Schedule
+# UW MATH 124 (Winter 21)
 
-Textbook: Calculus, Early Transcendental by Stewart.
+This repository contains the julia source files for the Pluto notebooks on [https://marlinfiggins.github.io/uwmath124](https://marlinfiggins.github.io/uwmath124).
+
+
+## Approximate Schedule
 
 Week 1: 
 - Tangent to circles
